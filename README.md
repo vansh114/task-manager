@@ -1,4 +1,4 @@
-# React Native Task Manager
+# Task Manager
 ## Project Overview
 A mobile task management application built with React Native and Expo, featuring a clean and intuitive interface for managing daily tasks. The app utilizes Redux for state management and TypeScript for type safety.
 
@@ -22,23 +22,19 @@ A mobile task management application built with React Native and Expo, featuring
 - Expo CLI
 - iOS Simulator (for Mac users) or Android Studio (for Android development)
 ## Installation
-1. 1.
-   Clone the repository:
+1. Clone the repository:
 ```
 git clone <repository-url>
 ```
-2. 1.
-   Navigate to the project directory:
+2. Navigate to the project directory:
 ```
 cd task-manager
 ```
-3. 1.
-   Install dependencies:
+3. Install dependencies:
 ```
 npm install
 ```
-4. 1.
-   Start the development server:
+4. Start the development server:
 ```
 npx expo start
 ```
@@ -60,16 +56,11 @@ The main application code is organized as follows:
 This project doesn't require any environment variables (.env) for basic functionality. All configurations are managed through app.json and package.json .
 
 ## Contributing
-1. 1.
-   Fork the repository
-2. 2.
-   Create your feature branch ( git checkout -b feature/AmazingFeature )
-3. 3.
-   Commit your changes ( git commit -m 'Add some AmazingFeature' )
-4. 4.
-   Push to the branch ( git push origin feature/AmazingFeature )
-5. 5.
-   Open a Pull Request
+1. Fork the repository
+2. Create your feature branch ( git checkout -b feature/AmazingFeature )
+3. Commit your changes ( git commit -m 'Add some AmazingFeature' )
+4. Push to the branch ( git push origin feature/AmazingFeature )
+5. Open a Pull Request
 ## License
 This project is open source and available under the MIT License.
 
